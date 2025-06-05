@@ -4,8 +4,13 @@ Meu nome é Yago Alexsander e sou Desenvolvendor Front-end!
 
 ### Estatísticas
 
-![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagoalexsander&show_icons=true&theme=tokyonight)
-![Yago's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoalexsander&layout=compact&show_icons=true&theme=tokyonight)
+<div>
+  <a href="">
+    <img src="![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagoalexsander&show_icons=true&theme=tokyonight)" />
+    <img src="![Yago's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoalexsander&layout=compact&show_icons=true&theme=tokyonight)" />
+  </a>
+</div>
+
 
 ### Linguagens e Tecnologias
 
