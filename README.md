@@ -23,9 +23,11 @@ Meu nome é Yago Alexsander e sou Desenvolvendor Front-end!
 
 ### Conecte-se comigo nas redes abaixo!
 
-<a href="https://www.linkedin.com/in/yagoalexsander/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
-</a>
+<div>
+  <a href="https://www.linkedin.com/in/yagoalexsander/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+  </a>
+</div>
 
 
 
