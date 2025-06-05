@@ -5,9 +5,9 @@ Meu nome é Yago Alexsander e sou Desenvolvendor Front-end!
 ### Estatísticas
 
 <div>
-  <a href="">
-    <img src="![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagoalexsander&show_icons=true&theme=tokyonight)" />
-    <img src="![Yago's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yagoalexsander&layout=compact&show_icons=true&theme=tokyonight)" />
+  <a href="https://github.com/yagoalexsander">
+    <img src="https://github-readme-stats.vercel.app/api?username=yagoalexsander&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoalexsander&layout=compact&show_icons=true&theme=tokyonight" />
   </a>
 </div>
 
