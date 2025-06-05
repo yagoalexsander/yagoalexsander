@@ -15,8 +15,10 @@ Meu nome é Yago Alexsander e sou Desenvolvendor Front-end!
 ### Linguagens e Tecnologias
 
 <div style="display: inline-block">
-<img align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <a href="https://github.com/yagoalexsander">
+    <img align="center" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
 </div>
 
 ### Conecte-se comigo nas redes abaixo!
